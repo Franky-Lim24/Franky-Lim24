@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franky-lim24)](https://github.com/franky-lim24/github-readme-stats)
+![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky-Lim24&show_icons=true&theme=dracula)
+
 
 <!--
 **Franky-Lim24/Franky-Lim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
