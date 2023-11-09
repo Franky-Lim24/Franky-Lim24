@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franky-lim24&theme=dracula" alt="franky-lim24" /></a> </p>
 
-- 🔭 I’m currently working on **GreenHarbor**
+- 🔭 I’m currently working on **Munchie**
 
-- 🌱 I’m currently learning **Terraform, Kubernetes, and Elasticsearch**
+- 🌱 I’m currently learning **Ansible, Istio, and Vault**
 
 - 👨‍💻 All of my projects are available at [https://franky-lim24.github.io/](https://franky-lim24.github.io/)
 
