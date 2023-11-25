@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Munchie**
 
-- 🌱 I’m currently learning **Ansible, Istio, and Vault**
+- 🌱 I’m currently learning **Deno - Oak, GraphQL, Ansible, Istio, and Vault**
 
 - 👨‍💻 All of my projects are available at [https://franky-lim24.github.io/](https://franky-lim24.github.io/)
 
