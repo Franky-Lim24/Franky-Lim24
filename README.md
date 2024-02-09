@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deno - HonoJS, Prisma, GraphQL, New Relic, Ansible, Istio, and Vault**
 
-- 👨‍💻 All of my projects are available at [https://franky-lim24.github.io/](https://frankylim.com/)
+- 👨‍💻 All of my projects are available at [https://frankylim.com/](https://frankylim.com/)
 
 - 📫 How to reach me **franky.2021@scis.smu.edu.sg**
 
