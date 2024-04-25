@@ -2,6 +2,7 @@
 <h3 align="center">A new and passionate developer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franky-lim24&label=Profile%20views&color=0e75b6&style=flat" alt="franky-lim24" /> </p>
+
 - 🔭 I’m currently working on **Munchie**
 
 - 🌱 I’m currently learning **Deno - HonoJS, Prisma, GraphQL, New Relic, Ansible, Istio, and Vault**
